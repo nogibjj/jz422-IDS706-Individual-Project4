@@ -6,7 +6,7 @@ This project demonstrates an auto-scaling Flask application hosted on Azure App 
 Here is the url to the web app: [Flask_app](https://idsindividual4.azurewebsites.net/)
 
 ## Video Demonstration
-[Here](https://youtu.be/5dpJrHdmKbQ) is a comprehensive walkthrough of the web app, demonstrating its features and functionalities.
+[Here](https://youtu.be/7qhUYBHQPYM) is a comprehensive walkthrough of the web app, demonstrating its features and functionalities.
 
 ## Features
 - Flask web application with dynamic content generation using OpenAI's LLM.
